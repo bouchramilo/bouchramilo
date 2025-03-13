@@ -1,4 +1,6 @@
+![LinkedIn Background Photo](https://github.com/user-attachments/assets/b4890d38-cbdd-453e-b155-a09628b20a48)
 <h1 align="center">Hi 👋, I'm Bouchra MILOUDY</h1>
+
 <h3 align="center">💻 A passionate full-stack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouchramilo&label=Profile%20views&color=0e75b6&style=flat" alt="bouchramilo" /> </p>
