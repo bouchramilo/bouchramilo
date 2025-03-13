@@ -48,9 +48,8 @@
 
 ## 📫 Let's Connect!  
 🌍 **Portfolio :** [À venir]  
-📧 **Email :** [Ton email]  
-💼 **LinkedIn :** [Ton profil LinkedIn]  
-📌 **GitHub :** [github.com/TonNom]  
+📧 **Email :** miloudybouchra01@gmail.com
+💼 **LinkedIn :** https://www.linkedin.com/in/bouchra-miloudy-197824329/ 
 
 ---
 
